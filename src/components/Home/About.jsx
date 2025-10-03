@@ -14,8 +14,8 @@ const AboutSection = () => {
 
   const testimonials = [
   {
-    text: "recently got my car washed and i can say without a doubt that AB DETAILING is the best valet service around; big up to AB, top guy and did as i requested, no questions asked and did everything and beyond. definitely choosing subscription service. 10/10",
-    name: "Mahin M",
+    text: "I have had multiple cars done to a very high standard and recommend them to all my friends and family.",
+    name: "Andrew Davies",
   },
 
 ]
